@@ -1,0 +1,11 @@
+{
+  "Servers": {
+    "巨量引擎工具": {
+      "url": "https://open.oceanengine.com/ad/mcp",
+      "headers": {
+        "Access-Token": "5449fa581f953be64e913b96eaeae233c443b2d1",
+        "Content-Type": "application/json"
+      }
+    }
+  }
+}
